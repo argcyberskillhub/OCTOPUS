@@ -53,26 +53,29 @@ Internet connection for modules that query public services
 
 Clone the repository:
 
+```bash
 git clone https://github.com/cybergana-web/OCTOPUS.git
 cd OCTOPUS
+```
+
 
 
 Create a virtual environment:
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 ▶️ Usage
 
 Start OCTOPUS with:
-
+```bash
 python3 octopus.py
-
+```
 
 Follow the interactive CLI menu and select the module you want to use.
 
