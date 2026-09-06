@@ -88,6 +88,14 @@ OCTOPUS/
 └── ...
 
 
+## 🐙 OCTOPUS
+
+![OCTOPUS Tool](octopus.png)
+<p align="center">
+  <img src="octopus.png" alt="OCTOPUS Tool" width="900">
+</p>
+
+
 The exact structure may change as the project develops.
 
 🎯 Intended Use
