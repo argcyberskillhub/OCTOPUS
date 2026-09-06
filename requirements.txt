@@ -1,0 +1,11 @@
+# Core UI
+pyfiglet>=0.8.3        # ASCII banner
+colorama>=0.4.6        # Windows ANSI support (optional but nice)
+
+# Optional but recommended modules
+requests>=2.31.0       # used nowhere critically but handy in future modules
+phonenumbers>=8.13.0   # Phone module (offline libphonenumber data)
+dnspython>=2.4.0       # DNS lookups (modules network + webinfo)
+
+# Dev
+# pytest (optional, for any tests you add)
