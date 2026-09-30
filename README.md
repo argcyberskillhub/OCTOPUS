@@ -54,7 +54,7 @@ Internet connection for modules that query public services
 Clone the repository:
 
 ```bash
-git clone https://github.com/cybergana-web/OCTOPUS.git
+git clone https://github.com/argcyberskillhub/OCTOPUS.git
 cd OCTOPUS
 ```
 
